@@ -40,7 +40,7 @@ Packages
 xcuserdata
 DerivedData/
 *.xcodeproj
-
+Pods
 
 ### Xcode ###
 ## User settings
